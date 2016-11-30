@@ -12,3 +12,23 @@ Naturally many other modules are employed in tandem with the aforementioned modu
 - Win32com
 - Pythoncom
 - Shutil
+
+Requirements
+------------
+
+1. Mozilla Firefox (version 46)
+   https://ftp.mozilla.org/pub/firefox/releases/46.0/
+   or
+   https://ftp.mozilla.org/pub/firefox/releases/46.0.1/
+   or
+   http://filehippo.com/download_firefox/67599/
+   
+2. Python 3
+   https://www.python.org/
+   
+3. MimeTypes.rdf file located in repository.
+   This file should overwrite the existing file (after backing up the original) in the .default folder in the following Mozilla Firefox      directory or similar:
+   
+   C:\Users\Computer-Username\AppData\Roaming\Mozilla\Firefox\Profiles\****.default
+
+   

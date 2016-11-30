@@ -4,7 +4,8 @@ This script which I wrote during my time at Wood Mackenzie as a Data Analyst, is
 As such, it is meant purely as a demonstration of how Python employs some specific libraries and modules to interact with websites. These modules are namely: 
 - Selenium web driver
 - Requests
-- BeautifulSoup4 and scrapy (which I don't actually use in this script version). 
+- BeautifulSoup4
+- Scrapy (which I don't actually use in this script version). 
 
 Naturally many other modules are employed in tandem with the aforementioned modules to achieve the desired objective: 
 - OS module
